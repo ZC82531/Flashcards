@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://i.imgur.com/pFXAatN.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[![](https://i.imgur.com/pFXAatN.png)](https://i.imgur.com/pFXAatN.mp4)
 
 ## Notes
 
