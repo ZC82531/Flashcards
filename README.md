@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/web102/XudqX69s.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/pFXAatN.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
